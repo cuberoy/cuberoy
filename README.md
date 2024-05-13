@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **CSS, HTML and JS**
 
-- 📫 How to reach me **roytan2911@gmail.com**
+- 📫 How to reach me **cuberoy.dev@gmail.com**
 
-- ⚡ Fun fact **I sing in the shower**
+- ⚡ Fun fact **I laosai after eating McSpicy**
 
 #
 
